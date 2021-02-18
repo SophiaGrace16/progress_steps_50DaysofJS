@@ -1,1 +1,2 @@
-# progress_steps_50DaysofJS
+# 50 Days of JS, HTML, & CSS 
+## Project 2: Progress Steps
