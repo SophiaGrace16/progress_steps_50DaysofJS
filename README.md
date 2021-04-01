@@ -1,6 +1,8 @@
 # 50 Days of JS, HTML, & CSS 
 ## Project 2: Progress Steps
 
+All of the 50 Days of JS, HTML, & CSS projects are from the Udemy course 50 Days of JS by Brad Traversy.
+
 ### Directions for Use:
 
 * Clone this repository
